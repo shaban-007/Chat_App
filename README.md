@@ -1,6 +1,12 @@
 https://github.com/shaban-007/Chat_App/assets/58948223/25b6a9db-f49b-40de-a209-5f793b25d3ce
 
+user 1: 
+shaban.dev007@gmail.com
+123123
 
+user 2: 
+mohamed 
+123
 
 
 # Getting Started with Create React App
